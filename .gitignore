@@ -1,0 +1,30 @@
+# Gradle / 构建产物
+.gradle/
+.kotlin/
+build/
+/**/build/
+/captures/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 本机 SDK 路径与签名材料
+local.properties
+keystore.properties
+*.jks
+*.keystore
+
+# Native 构建
+.externalNativeBuild/
+.cxx/
+
+# 安装包与本地临时产物
+*.apk
+*.aab
+*.xls
+*.xlsx
+dist/
+.tools/
