@@ -5,6 +5,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/SuperMite233/NCWU-Flow?label=release)](https://github.com/SuperMite233/NCWU-Flow/releases/latest)
 [![Platform](https://img.shields.io/badge/Android-8.0%2B%20(API%2026)-3ddc84)](#下载与安装)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7f52ff)](#构建)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 功能特性
 
@@ -93,4 +94,6 @@ Debug APK 输出到 `app/build/outputs/apk/debug/app-debug.apk`。
 
 ## License
 
-仓库暂未附带开源许可证，默认保留所有权利。
+本项目基于 [MIT License](LICENSE) 开源，Copyright (c) 2026 SuperMite233。
+
+MIT 许可仅覆盖本仓库的代码；使用本软件访问学校系统时，仍需遵守学校关于信息系统使用、账号管理与数据安全的相关规定。
